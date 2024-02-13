@@ -17,5 +17,5 @@ console.log(fruits.length)
 console.log(fruits[8])
 
 for (let i = 0 ; i <= 10 ; i++) {
-    console.log("*")
+    console.log("***")
 }
